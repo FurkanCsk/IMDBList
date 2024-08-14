@@ -4,7 +4,9 @@ This C# console application allows users to add movie names and IMDb ratings to 
 
 ## Features:
 Accepts movie names and IMDb ratings from the user.
+
 Displays movies with IMDb ratings between 4 and 9.
+
 Lists movies that start with the letter "A."
 
 ## Technologies Used:
@@ -14,6 +16,7 @@ C#: The programming language used for building the application.
 
 ## Usage:
 Enter a movie name and provide an IMDb rating.
+
 Press 'q' to exit the loop and display the list of movies.
 
 ![imdb](https://github.com/user-attachments/assets/e29747fb-e352-44d7-9c2c-ae9064f5b931)

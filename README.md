@@ -9,6 +9,7 @@ Lists movies that start with the letter "A."
 
 ## Technologies Used:
 C#: The programming language used for building the application.
+
 .NET Framework: The platform used to run the application.
 
 ## Usage:
